@@ -1,0 +1,52 @@
+body{
+    font-family: 'poppins';
+    margin: 0px;
+}
+.container{
+    background-color: rgb(48, 3, 170);
+    height: 500px;
+    display: flex;
+    align-items: stretch;
+    justify-content: space-evenly;
+    
+}
+.box img{
+    width: 500px;
+}
+.box h1{
+    font-size: 60px;
+    line-height: 75px;
+    
+}
+.box{
+  padding-left: 20px;
+  margin: 40px;
+  color: white;
+}
+#watch-live{
+    background-color: rgb(252, 22, 137);
+    border: none;
+    padding: 10px 20px;
+    margin-top: 0px;
+}
+.fas{
+    padding-left: 10px;
+    font-size: medium;
+}
+button{
+    color: white;
+}
+nav{
+    background-color: rgb(48, 3, 170);
+    padding: 40px 135px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    margin-right: 40px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
